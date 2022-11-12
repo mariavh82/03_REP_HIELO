@@ -4307,6 +4307,7 @@
 
 			#footer {
 				padding: 3rem 0 1rem 0 ;
+				#one,#two,#three{display:one}
 			}
 
 		}
